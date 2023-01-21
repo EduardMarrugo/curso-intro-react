@@ -1,0 +1,12 @@
+.EmptyTodo-container {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 70vh;
+}
+
+.EmptyTodo-text {
+  font-size: xx-large;
+  font-weight: 600;
+}
